@@ -91,4 +91,4 @@ int main()
 ![alt text](imag1.png)
 
 # RESULT:
-The programs are executed successfully.
+The programs are executed successfully...
